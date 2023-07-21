@@ -1,0 +1,4 @@
+contact_links:
+  - name: Boocoda Product Discussions
+    url: https://github.com/boocoda/product/discussions/categories/feedback-feature-proposal
+    about: Please open a discussion rather than an issue to propose a feature or give feedback. Issues are reserved to the Boocoda product team to track an under-consideration subject.
